@@ -1,0 +1,11 @@
+tr,td{
+    height:50px;
+    width:75px;
+}
+.table1{
+    width:20%;
+    margin: 0 auto;
+}
+.heading{
+    text-align: center;
+}
